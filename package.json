@@ -1,0 +1,24 @@
+{
+  "name": "parchment",
+  "version": "0.0.1",
+  "description": "Web client for quill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quill-platform/parchment.git"
+  },
+  "author": "Mark Thomas <markthethomas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quill-platform/parchment/issues"
+  },
+  "homepage": "https://github.com/quill-platform/parchment#readme",
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "redux": "^3.3.1"
+  }
+}
